@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+  <img alt="License" src=".github/license.svg">
 </p>
 
 <h4 align="center">
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :computer: Projeto
 
-O BeTheHero é um projeto que tem como principio a união e a solidariedade e faz a integração de ONG`s quem precisam de ajuda e  pessoas que querem e podem ajudar. 
+O BeTheHero é um projeto que tem como principio a união e a solidariedade e faz a integração de ONG`s que precisam de ajuda e  pessoas que querem e podem ajudar. 
 
 ### Versão Web
 
